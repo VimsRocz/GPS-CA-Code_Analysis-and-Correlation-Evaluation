@@ -1,4 +1,7 @@
-## GPS C/A Code Analysis and Correlation Functions
+# GPS C/A Code Analysis and Correlation Functions
+
+[![CI](https://github.com/VimsRocz/GPS-CA-Code_Analysis-and-Correlation-Evaluation/actions/workflows/ci.yml/badge.svg)](https://github.com/VimsRocz/GPS-CA-Code_Analysis-and-Correlation-Evaluation/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ### Task 1:
 - Generates C/A codes for three GPS satellites (PRN A, PRN B, PRN C) using specified SV numbers.
@@ -26,3 +29,7 @@
 - Examines correlation peak recognition under different levels of noise (specified in two cases).
 
 This repository includes MATLAB functions for generating C/A codes, computing auto-correlation and cross-correlation functions, and visualizing results through plots. Tasks aim to analyze correlation properties of GPS C/A codes and their behavior under noise conditions, providing insights into GPS signal processing and receiver tracking performance.
+
+## License
+
+MIT — see `LICENSE`.
